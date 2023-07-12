@@ -34,7 +34,7 @@ GIF created with LICECap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
