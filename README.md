@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="C:\Users\alexh\github\web102_prework\prework.gif?raw=true" title="Video Walkthrough" alt="Video Walkthrough" />
+<img src="prework.gif" title="Video Walkthrough" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with RecordIt  
